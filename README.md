@@ -8,3 +8,7 @@ This project's main goal is to run an AIB test to examine the relationship betwe
 
 # Research Question
 Is there a relationship between total fare amount and payment type and can we nudge customers towards payment methods that generate higher revenue for drivers,without negatively impacting customer experience?
+
+# Dataset Source
+Dataset source: https://data.world/vizwiz/nyc-taxi-jan-2020/workspace/file?filename=yellow_tripdata_2020-01.csv
+
